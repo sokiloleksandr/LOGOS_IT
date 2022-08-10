@@ -5,7 +5,7 @@ public class Main {
         //1
         Robot robot = new Robot("Robot","просто працюю");
         CoffeRobot coffeRobot = new CoffeRobot("CoffeRobor","варю каву");
-        RobotDancer robotDancer = new RobotDancer("RobotDancer","просто таннцюю");
+        RobotDancer robotDancer = new RobotDancer("RobotDancer","просто танцюю");
         RobotCoocker robotCoocker = new RobotCoocker("RobotCoocker","просто готую");
         System.out.println(robot);
         System.out.println(coffeRobot);
